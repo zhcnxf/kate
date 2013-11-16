@@ -1,0 +1,4 @@
+kate
+====
+
+Android Studio settings
